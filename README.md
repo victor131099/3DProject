@@ -11,3 +11,8 @@ This IOS application produce 3D point cloud of real world scene and export it to
 ## Stack:
 
 The application is written is Swift, it utilize AR library from Apple. 
+
+## How to run:
+
+Run with Xcode.
+
