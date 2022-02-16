@@ -1,0 +1,12 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '14.3'
+
+target 'VisualizingSceneSemantics' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for newar3dproject
+  pod 'GoogleSignIn', '~> 4.4.0'
+pod 'GoogleAPIClientForREST/Drive', '~> 1.2.1'
+
+end
